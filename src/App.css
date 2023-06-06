@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.container{
+  color :rgb(99, 9, 9);
+  background-color: RGB(57, 135, 201);
+  padding: 5px;
+  border-radius: 10px;
+
+}
+
+.person{
+  background-color: #61dafb;
+  border-radius: 30px;
+  border: 2px solid purple;
+  margin: 20px;
+  padding: 20px;
+}
+.friends{
+  background-color: #76959e;
+  border-radius: 30px;
+  border: 2px solid rgb(19, 121, 90);
+  margin: 20px;
+  padding: 20px;
+}
